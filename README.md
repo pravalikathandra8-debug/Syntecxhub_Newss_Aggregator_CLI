@@ -25,4 +25,5 @@ python main.py
 - news.xlsx
 
 Author
+
 Developed as a part of Syntecxhub Python Project
